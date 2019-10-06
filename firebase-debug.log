@@ -1,0 +1,10 @@
+[debug] [2019-10-06T10:09:38.879Z] ----------------------------------------------------------------------
+[debug] [2019-10-06T10:09:38.881Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\NantVim\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2019-10-06T10:09:38.881Z] CLI Version:   7.4.0
+[debug] [2019-10-06T10:09:38.881Z] Platform:      win32
+[debug] [2019-10-06T10:09:38.882Z] Node Version:  v10.16.3
+[debug] [2019-10-06T10:09:38.882Z] Time:          Sun Oct 06 2019 14:09:38 GMT+0400 (GMT+04:00)
+[debug] [2019-10-06T10:09:38.882Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+
